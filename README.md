@@ -20,4 +20,14 @@ First of all ,thanks for visiting my profile. Here, what you should know me:
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e67253230426f6f742d2532333644423333462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67626f6f74266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/4a59559e-1041-4764-83ee-8d63069c3538)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f73657276696365732d2532333030433443432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f7365727669636573266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/fb163e82-8ed4-4321-93d6-fe4d37e897cb)
 
+![aws](https://github.com/user-attachments/assets/165309c4-9ec7-4a95-9152-9a40038813d4)
+      
+![maven](https://github.com/user-attachments/assets/f137268f-b7b6-47ff-84f0-7e918a8cf511)
 
+![github](https://github.com/user-attachments/assets/4a7c7ffb-8659-4541-90eb-e9cf6a413f51)
+
+![docker](https://github.com/user-attachments/assets/8df58a52-179d-43ea-ae0d-27fdc348deb2)
+
+![ku](https://github.com/user-attachments/assets/88e77c05-5454-4d83-a1de-e40ccfc2bee6)
+
+![jenkins](https://github.com/user-attachments/assets/3ec60775-22ac-47ee-8e81-0001e3a7d2e5)
