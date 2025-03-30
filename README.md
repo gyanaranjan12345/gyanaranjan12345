@@ -23,14 +23,4 @@ First of all ,thanks for visiting my profile. Here, what you should know me:
 Cloud/DevOps:
 -----------------------------------------------------------------------------
 
-![aws](https://github.com/user-attachments/assets/165309c4-9ec7-4a95-9152-9a40038813d4)
-      
-![maven](https://github.com/user-attachments/assets/f137268f-b7b6-47ff-84f0-7e918a8cf511)
-
-![github](https://github.com/user-attachments/assets/4a7c7ffb-8659-4541-90eb-e9cf6a413f51)
-
-![docker](https://github.com/user-attachments/assets/8df58a52-179d-43ea-ae0d-27fdc348deb2)
-
-![ku](https://github.com/user-attachments/assets/88e77c05-5454-4d83-a1de-e40ccfc2bee6)
-
-![jenkins](https://github.com/user-attachments/assets/3ec60775-22ac-47ee-8e81-0001e3a7d2e5)
+![aws](https://github.com/user-attachments/assets/165309c4-9ec7-4a95-9152-9a40038813d4)![maven](https://github.com/user-attachments/assets/f137268f-b7b6-47ff-84f0-7e918a8cf511)![github](https://github.com/user-attachments/assets/4a7c7ffb-8659-4541-90eb-e9cf6a413f51)![docker](https://github.com/user-attachments/assets/8df58a52-179d-43ea-ae0d-27fdc348deb2)![ku](https://github.com/user-attachments/assets/88e77c05-5454-4d83-a1de-e40ccfc2bee6)![jenkins](https://github.com/user-attachments/assets/3ec60775-22ac-47ee-8e81-0001e3a7d2e5)
